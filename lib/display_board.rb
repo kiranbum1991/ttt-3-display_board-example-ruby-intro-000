@@ -5,3 +5,4 @@ def display_board
   puts "#{3}"|"#{4}"|"#{5}"
   puts -----------
   puts "#{6}"|"#{7}"|"#{8}"
+end
